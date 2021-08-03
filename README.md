@@ -35,7 +35,7 @@
 ---
 
 <!-- <img align="left" alt="xAbdx's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAbdx)](https://github.com/xAbdx/github-readme-stats)
+[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true)](https://github.com/xAbdx/github-readme-stats)
 
 
 ---

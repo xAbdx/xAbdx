@@ -33,11 +33,15 @@
 <br />
 
 ---
+<!-- Used https://github.com/anuraghazra/github-readme-stats to do -->
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<!-- <img align="left" alt="xAbdx's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
-[![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true&theme=dark&hide_border=true)](https://github.com/xAbdx/github-readme-stats)
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true&theme=dark&hide_border=true" />
 
+</details>
 
----
+<!-- [![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true&theme=dark&hide_border=true)](https://github.com/xAbdx/github-readme-stats) -->
+
 
 [instagram]: https://instagram.com/abd_salameh1

@@ -36,7 +36,7 @@
 <!-- Used https://github.com/anuraghazra/github-readme-stats to do -->
 ### GitHub Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true&theme=dark" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true&theme=dark&hide_border=true" />
 
 <!-- [![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=xAbdx&show_icons=true&theme=dark&hide_border=true)](https://github.com/xAbdx/github-readme-stats) -->
 

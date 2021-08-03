@@ -32,4 +32,13 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [instagram]: https://instagram.com/abd_salameh1
